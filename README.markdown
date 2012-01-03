@@ -47,3 +47,20 @@ from the model, compile these into code, and guarantee that
 the tests will be executed correctly.
 
 Alright, that should be enough to whet your appetites.  Enjoy!
+
+
+Closing Thoughts
+===================
+
+I consider this framework a fully-functional prototype.  I had
+started writing version 2.0 of this framework, but unfortunately
+Cigital would not support me in this effort.  Since I cannot
+afford a QTP license w/ my meager income, I suspect that version 2.0
+will never occur unless someone can sponsor this effort.
+
+In the meantime, please take a look at my Tolerable VBScript
+project.  This is essentially version 2.0 of the pure VBScript
+core to QAI.  It addresses some of the fundamental flaws in the
+version 1.0 object model.  Additionally, it no longer assumes that
+core libraries are defined within Quality Center.
+
