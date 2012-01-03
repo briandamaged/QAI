@@ -56,7 +56,9 @@ I consider this framework a fully-functional prototype.  I had
 started writing version 2.0 of this framework, but unfortunately
 Cigital would not support me in this effort.  Since I cannot
 afford a QTP license w/ my meager income, I suspect that version 2.0
-will never occur unless someone can sponsor this effort.
+will never occur unless someone can sponsor me.  More specifically,
+I need access to a copy of QTP.  A small monetary compensation
+would be nice as well.
 
 In the meantime, please take a look at my Tolerable VBScript
 project.  This is essentially version 2.0 of the pure VBScript
