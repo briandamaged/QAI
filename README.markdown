@@ -33,11 +33,11 @@ object-oriented programming paradigm.
 instance, all of the following can be achieved in a single
 line of code:
 
-** Find all blog posts written by Brian Lauber
+   * Find all blog posts written by Brian Lauber
 
-** From these, find all posts that are longer than 200 words
+   * From these, find all posts that are longer than 200 words
 
-** For each of these, send a comment that says "You're blog
+   * For each of these, send a comment that says "You're blog
 posts are way too long!  You suck!"
 
 * The ability to encapsulate cross-cutting testing patterns
